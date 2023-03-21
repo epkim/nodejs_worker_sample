@@ -1,0 +1,25 @@
+{
+  "name": "worker_sample",
+  "version": "0.0.1",
+  "description": "node worker sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epkim/nodejs_worker_sample.git"
+  },
+  "keywords": [
+    "worker"
+  ],
+  "author": "epkim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epkim/nodejs_worker_sample/issues"
+  },
+  "homepage": "https://github.com/epkim/nodejs_worker_sample#readme",
+  "engines": {
+    "node": ">=18.12.1"
+  }
+}
